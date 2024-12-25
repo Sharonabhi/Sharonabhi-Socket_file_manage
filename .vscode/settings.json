@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "toinclude.h": "c",
+        "includes.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "socket.h": "c",
+        "errno.h": "c",
+        "in.h": "c",
+        "unistd.h": "c"
+    }
+}
